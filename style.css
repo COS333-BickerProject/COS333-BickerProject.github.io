@@ -1,0 +1,47 @@
+html {
+	background-color: #FFF4EC;
+	font-family: 'Roboto';
+	padding: 1em;
+}
+
+body{
+	background-color: #FFF4EC;
+}
+
+.title {
+	background-color: #FFF4EC;
+	color: #00373f;
+	font-weight: bold;
+}
+
+h3 {
+	color: #14B7A4 !important;
+
+}
+
+a {
+	color: #FF5B32 !important;
+	text-decoration: underline !important;
+} 
+
+p {
+	color: #555;
+}
+
+li { 
+	color: #555;
+ }
+
+
+img {
+	height: 20em;
+	width: 70%;
+	margin-bottom: 1.3em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.page-body{
+	padding: 1.5em;
+	background-color: white;
+}
