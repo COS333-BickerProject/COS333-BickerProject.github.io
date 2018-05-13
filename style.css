@@ -12,6 +12,10 @@ body{
 	background-color: #FFF4EC;
 	color: #00373f;
 	font-weight: bold;
+	background: #FFF4EC;
+	padding: 1em;
+	margin: 0;
+	text-shadow: 0 0 5px #fff;
 }
 
 h3 {
@@ -39,9 +43,23 @@ img {
 	margin-bottom: 1.3em;
 	margin-left: auto;
 	margin-right: auto;
+	border: 1px solid #ddd !important;
+	box-shadow: 0 0 5px #ddd;
 }
 
-.page-body{
-	padding: 1.5em;
-	background-color: white;
+.container-fluid {
+	background: #FFF4EC;
+	margin: 0;
+	padding: 0;
+	border: 0;
 }
+
+
+
+.page-body{
+	background: white;
+	border: 1px solid #ddd;
+	margin: auto;
+	padding: 2em;
+}
+
